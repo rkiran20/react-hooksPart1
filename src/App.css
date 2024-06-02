@@ -1,0 +1,36 @@
+.searchBtn{
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.loginDiv{
+  border-bottom: 2px solid black;
+}
+
+.formDiv{
+  padding: 10px;
+}
+
+.searchFormDiv{
+  padding: 10px;
+  border-bottom: 2px solid black;
+}
+
+.stateDiv{
+  padding: 10px;
+  border-bottom: solid 2px black;
+}
+
+.initial{
+  font-size: 2rem;
+}
+
+.refDiv{
+  padding: 10px;
+  border-bottom: solid 2px black;
+}
+
+.useEffectDiv{
+  padding: 10px;
+  border-bottom: 2px solid black;
+}
